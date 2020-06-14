@@ -1,8 +1,6 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
-```
 This a simple calendar application that allows the user to save events for each hour of the day. This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-```
 
 ```
 Libraries used:
@@ -33,4 +31,5 @@ Clear button which clears both the html and the local storage has been added at 
 Clear button automatically reloads the page.
 ```
 
-
+![day-planner-image-top](assets/planner1.png)
+![day-planner-image-full](assets/planner2.png)

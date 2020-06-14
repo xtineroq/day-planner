@@ -166,6 +166,7 @@ $(document).ready(function() {
         saveMyPlan();
     })
 
+    // Clear button function
     $(".btn-danger").on("click", function clearPlanner() {
         // Clear all inputs
         $(".row").val("");
