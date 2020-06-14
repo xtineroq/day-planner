@@ -31,5 +31,5 @@ Clear button which clears both the html and the local storage has been added at 
 Clear button automatically reloads the page.
 ```
 
-![day-planner-image-top](assets/planner1.png)
-![day-planner-image-full](assets/planner2.png)
+![day-planner-image-top](Assets/planner1.png)
+![day-planner-image-full](Assets/planner2.png)
