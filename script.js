@@ -118,10 +118,10 @@ $(document).ready(function() {
         $(".container").append(hourRow);
 
         // creates first column and display hour and meridiem
-        var timeColumn = $("<div>").text(`${block.hour}${block.meridiem}`).attr("class", "col-md-2 hour");
+        var timeColumn = $("<div>").text(`${block.hour}${block.meridiem}`).attr("class", "col-12 col-md-2 hour");
 
         // creates second column
-        var dataColumn = $("<div>").attr("class", "col-md-9 description");
+        var dataColumn = $("<div>").attr("class", "col-10 col-md-9 description");
 
         var plannerData = $("<textarea>").attr("class", "myData");
         dataColumn.append(plannerData);
@@ -136,8 +136,8 @@ $(document).ready(function() {
         }
 
         // creates third column and save button
-        var saveIcon = $("<i class='far fa-save fa-lg'></i>")
-        var saveColumn = $("<button>").attr("class", "col-md-1 saveBtn");
+        var saveColumn = $("<button>").attr("class", "col-2 col-md-1 saveBtn");
+        var saveIcon = $("<i class='far fa-save fa-lg'></i>");
         saveColumn.data("index", block.id);
         saveIcon.data("index", block.id);
 

@@ -29,6 +29,7 @@ Textarea of timeblocks that are in the past are disabled.
 When the user edits an existing event and clicks the save button, the new entry is saved in the local storage.
 Clear button which clears both the html and the local storage has been added at the bottom of the page.
 Clear button automatically reloads the page.
+Made the application responsive and stacks up nicely on smaller screens.
 ```
 
 Top view
@@ -36,3 +37,8 @@ Top view
 
 Full shot
 ![day-planner-image-full](Assets/planner2.png)
+
+Responsive
+![day-planner-image-responsive](Assets/responsive.png)
+
+Link to deployed application: https://xtineroq.github.io/cr-hw5-day-planner/
