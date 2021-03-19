@@ -41,4 +41,4 @@ Full shot
 Responsive
 ![day-planner-image-responsive](Assets/responsive.png)
 
-Link to deployed application: https://xtineroq.github.io/cr-hw5-day-planner/
+Link to deployed application: https://xtineroq.github.io/day-planner/
